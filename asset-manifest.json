@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ch1nya/personal-ai-assitant/static/css/main.3a4707e3.css",
+    "main.js": "/ch1nya/personal-ai-assitant/static/js/main.2568c58b.js",
+    "static/js/453.be28beb3.chunk.js": "/ch1nya/personal-ai-assitant/static/js/453.be28beb3.chunk.js",
+    "index.html": "/ch1nya/personal-ai-assitant/index.html",
+    "main.3a4707e3.css.map": "/ch1nya/personal-ai-assitant/static/css/main.3a4707e3.css.map",
+    "main.2568c58b.js.map": "/ch1nya/personal-ai-assitant/static/js/main.2568c58b.js.map",
+    "453.be28beb3.chunk.js.map": "/ch1nya/personal-ai-assitant/static/js/453.be28beb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a4707e3.css",
+    "static/js/main.2568c58b.js"
+  ]
+}
