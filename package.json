@@ -1,6 +1,6 @@
 {
   "name": "ai-assistant",
-  "homepage": "https://github.com/ch1nya/personal-ai-assitant",
+  "homepage": "https://github.com/ch1nya/ai-assitant/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",git
+    "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
