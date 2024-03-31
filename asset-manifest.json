@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ch1nya/ai-assitant/static/css/main.3a4707e3.css",
-    "main.js": "/ch1nya/ai-assitant/static/js/main.ca26bf44.js",
-    "static/js/453.be28beb3.chunk.js": "/ch1nya/ai-assitant/static/js/453.be28beb3.chunk.js",
-    "index.html": "/ch1nya/ai-assitant/index.html",
-    "main.3a4707e3.css.map": "/ch1nya/ai-assitant/static/css/main.3a4707e3.css.map",
-    "main.ca26bf44.js.map": "/ch1nya/ai-assitant/static/js/main.ca26bf44.js.map",
-    "453.be28beb3.chunk.js.map": "/ch1nya/ai-assitant/static/js/453.be28beb3.chunk.js.map"
+    "main.css": "/ai-assitant/static/css/main.3a4707e3.css",
+    "main.js": "/ai-assitant/static/js/main.eafabc61.js",
+    "static/js/453.be28beb3.chunk.js": "/ai-assitant/static/js/453.be28beb3.chunk.js",
+    "index.html": "/ai-assitant/index.html",
+    "main.3a4707e3.css.map": "/ai-assitant/static/css/main.3a4707e3.css.map",
+    "main.eafabc61.js.map": "/ai-assitant/static/js/main.eafabc61.js.map",
+    "453.be28beb3.chunk.js.map": "/ai-assitant/static/js/453.be28beb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a4707e3.css",
-    "static/js/main.ca26bf44.js"
+    "static/js/main.eafabc61.js"
   ]
 }
